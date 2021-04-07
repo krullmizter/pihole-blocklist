@@ -1,80 +1,78 @@
-# Inspiration https://gist.githubusercontent.com/dieechtenilente/ad3fc9bacc205876b2e29dcb9043c8bc/raw/b32281bd4fe9c4c107601ac110179b73e57914e1/pihole.list
-
 # Twitch
-api.mixpanel.com 
-spade.twitch.com 
-pubads.g.doubleclick.net 
-sb.scorecardresearch.com
+0.0.0.0 api.mixpanel.com 
+0.0.0.0 spade.twitch.com 
+0.0.0.0 pubads.g.doubleclick.net 
+0.0.0.0 sb.scorecardresearch.com
 
 # Xiomi
-api.ad.xiaomi.com 
-api.admob.xiaomi.com 
-api.d.xiaomi.com 
-a.stat.xiaomi.com 
-tracking.miui.com 
-cdn.ad.xiaomi.com 
-data.mistat.xiaomi.com 
-e.ad.xiaomi.com 
-globalapi.ad.xiaomi.com 
-new.api.ad.xiaomi.com 
-sdkconfig.ad.xiaomi.com 
-ssp.ad.xiaomi.com 
-test.ad.xiaomi.com 
-test.e.ad.xiaomi.com 
-test.new.api.ad.xiaomi.com 
-cc.sys.intl.xiaomi.com 
-cc.sys.miui.com 
-ccc.sys.miui.com 
-ccc.sys.intl.xiaomi.com 
-data.mistat.intl.xiaomi.com 
-adv.sec.miui.com 
-geofence.sys.miui.com 
-abtest.mistat.xiaomi.com 
-logupdate.avlyun.sec.miui.com 
-mazu.sec.miui.com 
-feedback.miui.com 
-data.sec.miui.com 
-data.mistat.intl.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com 
+0.0.0.0 api.admob.xiaomi.com 
+0.0.0.0 api.d.xiaomi.com 
+0.0.0.0 a.stat.xiaomi.com 
+0.0.0.0 tracking.miui.com 
+0.0.0.0 cdn.ad.xiaomi.com 
+0.0.0.0 data.mistat.xiaomi.com 
+0.0.0.0 e.ad.xiaomi.com 
+0.0.0.0 globalapi.ad.xiaomi.com 
+0.0.0.0 new.api.ad.xiaomi.com 
+0.0.0.0 sdkconfig.ad.xiaomi.com 
+0.0.0.0 ssp.ad.xiaomi.com 
+0.0.0.0 test.ad.xiaomi.com 
+0.0.0.0 test.e.ad.xiaomi.com 
+0.0.0.0 test.new.api.ad.xiaomi.com 
+0.0.0.0 cc.sys.intl.xiaomi.com 
+0.0.0.0 cc.sys.miui.com 
+0.0.0.0 ccc.sys.miui.com 
+0.0.0.0 ccc.sys.intl.xiaomi.com 
+0.0.0.0 data.mistat.intl.xiaomi.com 
+0.0.0.0 adv.sec.miui.com 
+0.0.0.0 geofence.sys.miui.com 
+0.0.0.0 abtest.mistat.xiaomi.com 
+0.0.0.0 logupdate.avlyun.sec.miui.com 
+0.0.0.0 mazu.sec.miui.com 
+0.0.0.0 feedback.miui.com 
+0.0.0.0 data.sec.miui.com 
+0.0.0.0 data.mistat.intl.xiaomi.com
 
 JavaScript based crypto currency mining
-coin-hive.com 
-www.coin-hive.com
+0.0.0.0 coin-hive.com 
+0.0.0.0 www.coin-hive.com
 
 # nVidia Telemetry
-telemetry.nvidia.com 
-telemetry.gfe.nvidia.com 
-events.gfe.nvidia.com
+0.0.0.0 telemetry.nvidia.com 
+0.0.0.0 telemetry.gfe.nvidia.com 
+0.0.0.0 events.gfe.nvidia.com
 
 # nVidia GeForce Experience Driver Updates
-gfwsl.geforce.com
+0.0.0.0 gfwsl.geforce.com
 
 # nVidia Telemetry - GeForce Experience Game Optimierung
-gfe.nvidia.com 
-gfe.geforce.com
+0.0.0.0 gfe.nvidia.com 
+0.0.0.0 gfe.geforce.com
 
 # Microsoft Office
-fp.measure.office.com
+0.0.0.0 fp.measure.office.com
 
 # Google
-alt2-mtalk.google.com
+0.0.0.0 alt2-mtalk.google.com
 
 # Snapchat Ads and Analytics
-app-analytics-v2.snapchat.com
-ads-interface.sc-cdn.net
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 ads-interface.sc-cdn.net
 
 # Ad provider
-ads2.web1tv.de
+0.0.0.0 ads2.web1tv.de
 
 # Facebook Ads and Analytic Stuff
-graph.facebook.com
-scontent-ber1-1.xx.fbcdn.net
-external-ber1-1.xx.fbcdn.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 scontent-ber1-1.xx.fbcdn.net
+0.0.0.0 external-ber1-1.xx.fbcdn.net
 
 # WhatsApp Analytics (no impact noticeable)
-g.whatsapp.net
+0.0.0.0 g.whatsapp.net
 
 # Scam Audacity
-audacity.de
+0.0.0.0 audacity.de
 
 # MS Teams Android App
-teams.events.data.microsoft.com
+0.0.0.0 teams.events.data.microsoft.com
