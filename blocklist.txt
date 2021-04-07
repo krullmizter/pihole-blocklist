@@ -1,70 +1,80 @@
 # Inspiration https://gist.githubusercontent.com/dieechtenilente/ad3fc9bacc205876b2e29dcb9043c8bc/raw/b32281bd4fe9c4c107601ac110179b73e57914e1/pihole.list
 
 # Twitch
-0.0.0.0 api.mixpanel.com spade.twitch.com pubads.g.doubleclick.net sb.scorecardresearch.com
-:: api.mixpanel.com spade.twitch.com pubads.g.doubleclick.net sb.scorecardresearch.com
+api.mixpanel.com 
+spade.twitch.com 
+pubads.g.doubleclick.net 
+sb.scorecardresearch.com
 
-0.0.0.0 api.ad.xiaomi.com api.admob.xiaomi.com api.d.xiaomi.com a.stat.xiaomi.com tracking.miui.com cdn.ad.xiaomi.com data.mistat.xiaomi.com e.ad.xiaomi.com globalapi.ad.xiaomi.com new.api.ad.xiaomi.com sdkconfig.ad.xiaomi.com ssp.ad.xiaomi.com test.ad.xiaomi.com test.e.ad.xiaomi.com test.new.api.ad.xiaomi.com cc.sys.intl.xiaomi.com cc.sys.miui.com ccc.sys.miui.com ccc.sys.intl.xiaomi.com data.mistat.intl.xiaomi.com adv.sec.miui.com geofence.sys.miui.com abtest.mistat.xiaomi.com logupdate.avlyun.sec.miui.com mazu.sec.miui.com feedback.miui.com data.sec.miui.com data.mistat.intl.xiaomi.com
-:: api.ad.xiaomi.com api.admob.xiaomi.com api.d.xiaomi.com a.stat.xiaomi.com tracking.miui.com cdn.ad.xiaomi.com data.mistat.xiaomi.com e.ad.xiaomi.com globalapi.ad.xiaomi.com new.api.ad.xiaomi.com sdkconfig.ad.xiaomi.com ssp.ad.xiaomi.com test.ad.xiaomi.com test.e.ad.xiaomi.com test.new.api.ad.xiaomi.com cc.sys.intl.xiaomi.com cc.sys.miui.com ccc.sys.miui.com ccc.sys.intl.xiaomi.com data.mistat.intl.xiaomi.com adv.sec.miui.com geofence.sys.miui.com abtest.mistat.xiaomi.com logupdate.avlyun.sec.miui.com mazu.sec.miui.com feedback.miui.com data.sec.miui.com data.mistat.intl.xiaomi.com
+# Xiomi
+api.ad.xiaomi.com 
+api.admob.xiaomi.com 
+api.d.xiaomi.com 
+a.stat.xiaomi.com 
+tracking.miui.com 
+cdn.ad.xiaomi.com 
+data.mistat.xiaomi.com 
+e.ad.xiaomi.com 
+globalapi.ad.xiaomi.com 
+new.api.ad.xiaomi.com 
+sdkconfig.ad.xiaomi.com 
+ssp.ad.xiaomi.com 
+test.ad.xiaomi.com 
+test.e.ad.xiaomi.com 
+test.new.api.ad.xiaomi.com 
+cc.sys.intl.xiaomi.com 
+cc.sys.miui.com 
+ccc.sys.miui.com 
+ccc.sys.intl.xiaomi.com 
+data.mistat.intl.xiaomi.com 
+adv.sec.miui.com 
+geofence.sys.miui.com 
+abtest.mistat.xiaomi.com 
+logupdate.avlyun.sec.miui.com 
+mazu.sec.miui.com 
+feedback.miui.com 
+data.sec.miui.com 
+data.mistat.intl.xiaomi.com
 
 JavaScript based crypto currency mining
-0.0.0.0 coin-hive.com www.coin-hive.com
-:: coin-hive.com www.coin-hive.com
+coin-hive.com 
+www.coin-hive.com
 
 # nVidia Telemetry
-0.0.0.0 telemetry.nvidia.com telemetry.gfe.nvidia.com events.gfe.nvidia.com
-:: telemetry.nvidia.com telemetry.gfe.nvidia.com events.gfe.nvidia.com
+telemetry.nvidia.com 
+telemetry.gfe.nvidia.com 
+events.gfe.nvidia.com
 
 # nVidia GeForce Experience Driver Updates
-0.0.0.0 gfwsl.geforce.com
-:: gfwsl.geforce.com
+gfwsl.geforce.com
 
 # nVidia Telemetry - GeForce Experience Game Optimierung
-0.0.0.0 gfe.nvidia.com gfe.geforce.com
-:: gfe.nvidia.com gfe.geforce.com
-
-# Adobe Analytics
-0.0.0.0 omniture.com
-:: omniture.com
-
-# Adobe Licensing
-0.0.0.0 licensing.adobe.com 
-:: licensing.adobe.com
+gfe.nvidia.com 
+gfe.geforce.com
 
 # Microsoft Office
-0.0.0.0 fp.measure.office.com
-:: fp.measure.office.com
+fp.measure.office.com
 
 # Google
-0.0.0.0 alt2-mtalk.google.com
-:: alt2-mtalk.google.com
+alt2-mtalk.google.com
 
 # Snapchat Ads and Analytics
-0.0.0.0 app-analytics-v2.snapchat.com
-:: app-analytics-v2.snapchat.com
-0.0.0.0 ads-interface.sc-cdn.net
-:: ads-interface.sc-cdn.net
+app-analytics-v2.snapchat.com
+ads-interface.sc-cdn.net
 
 # Ad provider
-0.0.0.0 ads2.web1tv.de
-:: ads2.web1tv.de
+ads2.web1tv.de
 
 # Facebook Ads and Analytic Stuff
-0.0.0.0 graph.facebook.com
-:: graph.facebook.com
-0.0.0.0 scontent-ber1-1.xx.fbcdn.net
-:: scontent-ber1-1.xx.fbcdn.net
-0.0.0.0 external-ber1-1.xx.fbcdn.net
-:: external-ber1-1.xx.fbcdn.net
+graph.facebook.com
+scontent-ber1-1.xx.fbcdn.net
+external-ber1-1.xx.fbcdn.net
 
-# WhatsApp Analytics (no impact noticable)
-0.0.0.0 g.whatsapp.net
-:: g.whatsapp.net
+# WhatsApp Analytics (no impact noticeable)
+g.whatsapp.net
 
 # Scam Audacity
-0.0.0.0 audacity.de
-:: audacity.de
+audacity.de
 
 # MS Teams Android App
-0.0.0.0 teams.events.data.microsoft.com
-:: teams.events.data.microsoft.com
+teams.events.data.microsoft.com
