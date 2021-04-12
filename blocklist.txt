@@ -64,7 +64,7 @@ JavaScript based crypto currency mining
 0.0.0.0 ads2.web1tv.de
 
 # Facebook Ads and Analytic Stuff
-0.0.0.0 graph.facebook.com
+# 0.0.0.0 graph.facebook.com
 0.0.0.0 scontent-ber1-1.xx.fbcdn.net
 0.0.0.0 external-ber1-1.xx.fbcdn.net
 
